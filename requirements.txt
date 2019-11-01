@@ -5,4 +5,4 @@ panel
 bokeh
 holoviews
 bebi103
-skimage
+scikit-image
