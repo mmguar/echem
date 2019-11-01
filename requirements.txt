@@ -6,3 +6,4 @@ bokeh
 holoviews
 bebi103
 scikit-image
+datashader
