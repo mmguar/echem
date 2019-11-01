@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+panel
+bokeh
+holoviews
+decimal
+bebi103
